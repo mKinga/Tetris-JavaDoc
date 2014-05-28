@@ -1,0 +1,7 @@
+tetris.game.control
+tetris.game.control.serialize
+tetris.game.model
+tetris.game.uiElements
+tetris.game.uiElements.help
+tetris.game.uiElements.highScores
+tetris.player
